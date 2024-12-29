@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+<style>
+      .block-item{
+        display: inline-block;
+        width:150px;
+        background-color: lightgrey;
+        border:2px solid grey;
+        border-radius:5px;
+        text-align: center;
+      }
+    </style>
